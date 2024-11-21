@@ -24,6 +24,8 @@ O crescimento de veículos elétricos (VEs) apresenta desafios significativos na
 
 ## Resultados Obtidos
 - **Mapas:** Identificação das regiões com maior concentração de VEs, como Washington, auxiliando na definição estratégica de locais para estações de carregamento.
+![Mapa dinâmico de VEs registradas nos EUA](./MAPA.png)
+  
 - **Modelagem Preditiva:** Geração de previsões de demanda com erros médios quadráticos aceitáveis, destacando a viabilidade de aplicar Machine Learning ao gerenciamento de recursos.
 
 ## Conclusões
